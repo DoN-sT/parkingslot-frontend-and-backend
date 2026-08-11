@@ -1,0 +1,6 @@
+{
+  "name": "ParkingSpot",
+  "description": "Smart Parking Reservation and Management Platform for Customers, Owners, Employees, and Admins",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
